@@ -33,7 +33,5 @@ public class Member {
         System.out.println("Member Name: " + memberName);
         System.out.println("Member Age: " + memberAge);
     }
-
-
 }
 
