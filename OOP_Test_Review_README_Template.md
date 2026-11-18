@@ -24,7 +24,7 @@ Didn't get this far in the exam.
 **Why I awarded this mark:**
 Didn't get this far too.
 
-**Total self-assessed grade:** /100
+**Total self-assessed grade:** 5/100
 
 ## 2. Corrections and Improvements
 
@@ -45,7 +45,7 @@ I understood the scanner but struggled to implement it properly.
 **What was the most important thing you learned
 from correcting your code?**
 The most important thing ive learned from this is the importance of understanding the basics to the maximum. If i had a better foundation
-of this module i wouldve done much better in the exam.
+of this language i wouldve done much better in the exam.
 
 **What would you do differently in your next
 coding test?**
